@@ -10,27 +10,27 @@ var icoontjesElement5 = document.querySelector('#icoontjes5');
 var icoontjesElement6 = document.querySelector('#icoontjes6');
 
 function veranderIcoontjes1(event) {
-    icoontjesElement1.src = "./images/icoontjeshart.png";
+    icoontjesElement1.src = "../images/icoontjeshart.png";
 }
 
 function veranderIcoontjes2(event) {
-    icoontjesElement2.src = "./images/icoontjeshart.png";
+    icoontjesElement2.src = "../images/icoontjeshart.png";
 }
 
 function veranderIcoontjes3(event) {
-    icoontjesElement3.src = "./images/icoontjeshart.png";
+    icoontjesElement3.src = "../images/icoontjeshart.png";
 }
 
 function veranderIcoontjes4(event) {
-    icoontjesElement4.src = "./images/icoontjeshart.png";
+    icoontjesElement4.src = "../images/icoontjeshart.png";
 }
 
 function veranderIcoontjes5(event) {
-    icoontjesElement5.src = "./images/icoontjeshart.png";
+    icoontjesElement5.src = "../images/icoontjeshart.png";
 }
 
 function veranderIcoontjes6(event) {
-    icoontjesElement6.src = "./images/icoontjeshart.png";
+    icoontjesElement6.src = "../images/icoontjeshart.png";
 }
 
 
