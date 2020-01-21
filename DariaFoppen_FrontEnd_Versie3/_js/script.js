@@ -10,7 +10,7 @@ var icoontjesElement5 = document.querySelector('#icoontjes5');
 var icoontjesElement6 = document.querySelector('#icoontjes6');
 
 function veranderIcoontjes1(event) {
-    icoontjesElement1.src = "images/icoontjeshart.png";
+    icoontjesElement1.src = "./images/icoontjeshart.png";
 }
 
 function veranderIcoontjes2(event) {
